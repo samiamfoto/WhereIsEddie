@@ -1,0 +1,17 @@
+{
+	"folders":
+	[
+		{
+			"follow_symlinks": true,
+			"path": "."
+		},
+		{
+			"follow_symlinks": true,
+			"path": "/Users/samanthaisom/Documents/SamsTest"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "/Users/samanthaisom/Desktop/WebDeveloping/Where Is Eddie"
+		}
+	]
+}
