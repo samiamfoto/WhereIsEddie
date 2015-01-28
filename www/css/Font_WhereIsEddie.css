@@ -8,15 +8,15 @@ h1 {
 }
 
 /*
-  Module: Polaroid;
+  Module: Polaroid; I do not understand why it won't apply this class when I add it.  what am I doing wrong
 */
 
-.polaroid > h2, .polaroid > h3 {
+.polaroid > a > h2, .polaroid > h3 {
 	font-family: Galeforce BTN;
 	font-weight: bold;
 }
 
-.polaroid > h2 {
+.polaroid > a > h2 {
 	font-size: 270%;
 }
 
