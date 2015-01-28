@@ -2,27 +2,30 @@ body {
 	font-family: Helvetica Neue;
 }
 
-
-
 h1 {
     font-size: 600%;
     font-weight: bold;
 }
 
-
 /*
   Module: Polaroid;
 */
 
-.polaroid h2, .polaroid h3 {
+.polaroid > h2, .polaroid > h3 {
 	font-family: Galeforce BTN;
 	font-weight: bold;
 }
 
-.polaroid h2 {
+.polaroid > h2 {
 	font-size: 270%;
 }
 
-.polaroid h3 {
+.polaroid > h3 {
 	font-size: 290%;
 }  
+
+label {
+	font-size: 250%;
+	font-weight: bold;
+}
+
