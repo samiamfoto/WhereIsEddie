@@ -32,5 +32,15 @@ body {
   border-color: rgba(248, 248, 248, 0.7);
 }
 
+.Absolute-Center.is-Responsive {
+  width: 50%; 
+  height: 50%;
+  min-width: 200px;
+  max-width: 400px;
+  padding: 40px;
+}
+
+
+
 
  
